@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Jekyll is and why I'm using it
+tags: [ jekyll ]
 ---
 
 [Jekyl](https://jekyllrb.com) is a static site generator, an open-source tool that allows you to build your
