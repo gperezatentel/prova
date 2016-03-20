@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
+
+gems: [jekyll-paginate]
+
+# Setup
+title:               Gustau Pérez and my digital life
+#tagline:             'A Jekyll theme'
+description:         'Never argue with an idiot; onlookers may not be able to tell the difference - Mark Twain'
+url:                 https://gustauperez.github.io
+baseurl:             ''
+paginate:            2
+
+# About/contact
+author:
+  name:              Gustau Perez
+  url:               https://twitter.com/gustauperez
+  email:             gustau.perez@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+host: 0.0.0.0
