@@ -11,5 +11,6 @@ Elsewhere
 You can find in a few different places, my username usually is "gustau.perez" or "gustauperez":
 
 * [Twitter](https://www.twitter.com/gustauperez){:target="_blank"} - a good way to make contact
-* [Linkedin](https://www.linkedin.com) - my professional profile
+* [Linkedin](https://es.linkedin.com/in/gustau-pérez-63422334){:target="_blank"} - my professional profile
 * [GitHub](https://github.com/gustauperez){:target="_blank"}  - code, juicy code
+* [mail] - gustau.perez@gmail.com
