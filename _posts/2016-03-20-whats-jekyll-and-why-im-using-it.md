@@ -4,7 +4,7 @@ title: What Jekyll is and why I'm using it
 tags: [ jekyll ]
 ---
 
-[Jekyl](https://jekyllrb.com) is a static site generator, an open-source tool that allows you to build your
+[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool that allows you to build your
 own site with the hassle of settings a database server and using an scripted language (like PHP, Ruby, Perl, Python or any 
 other you may think of) to run the site. 
 
