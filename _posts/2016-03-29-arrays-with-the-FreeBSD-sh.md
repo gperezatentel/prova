@@ -33,4 +33,4 @@ If we want to retrieve the assigned value of the ``$i`` component, we should do 
 
 {% raw %}
 	eval temp=\$_lockdict$i
-{% endraw $} 
+{% endraw %} 
