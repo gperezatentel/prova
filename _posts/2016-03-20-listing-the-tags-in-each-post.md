@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listing tags in each post
-tags: [ jekyll ]
+tags: [ Jekyll ]
 ---
 
 To list the tags of each post, we have to change `index.html` and the post layout. Changing 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listing tags and categories with Jekyll
-tags: [ jekyll ]
+tags: [ Jekyll ]
 ---
 
 Since Jekyll supports `site.tags` and `site.categories` it would very simple to 
